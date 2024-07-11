@@ -45,7 +45,3 @@ package-lock.json
 
 # Ignore yarn lock file
 yarn.lock
-
--# End of https://www.toptal.com/developers/gitignore/api/node
-\ No newline at end of file
-+# End of https://www.toptal.com/developers/gitignore/api/node
