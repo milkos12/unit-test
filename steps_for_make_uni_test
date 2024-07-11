@@ -1,0 +1,7 @@
+1. One validation TRUE or FALSE
+2. Consider diferents routers
+3. Manage of errors
+4. Boudering referts to: minimun maximum or edge cases
+5. Use MOCKS simulate dependences
+6. invalit inputs 
+7. Regretions take know about not breaking to existing dependences 
